@@ -6,7 +6,7 @@ This repository contains all the issues and information surrounding the various 
 
 | Type       | Year Made | Name of System | Current Issues |
 | ---        | ---       | ---            | ---            |
-| Computer   | 1979      | [Apple ][](https://www.youtube.com/watch?v=AVec5Db_SRo) | [Project Board](https://github.com/users/geerlingguy/projects/1) |
+| Computer   | 1979      | [Apple II](https://www.youtube.com/watch?v=AVec5Db_SRo) | [Project Board](https://github.com/users/geerlingguy/projects/1) |
 | Computer   | 1990      | [Macintosh Classic](https://en.wikipedia.org/wiki/Macintosh_Classic) | [Project Board](https://github.com/users/geerlingguy/projects/2/views/1) |
 | Computer   | 1997      | [PowerBook 3400c](https://www.jeffgeerling.com/blog/2024/build-log-macintosh-powerbook-3400c) | TODO |
 | Computer   | 2002      | [Power Macintosh G4 MDD](https://www.jeffgeerling.com/blog/2024/build-log-power-mac-g4-mdd) | TODO |
