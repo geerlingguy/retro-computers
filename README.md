@@ -9,7 +9,7 @@ This repository contains all the issues and information surrounding the various 
 | Computer   | 1979      | [Apple II](https://www.youtube.com/watch?v=AVec5Db_SRo) | [Project Board](https://github.com/users/geerlingguy/projects/1) |
 | Computer   | 1986      | [Macintosh Plus](https://en.wikipedia.org/wiki/Macintosh_Plus) | [Project Board](https://github.com/users/geerlingguy/projects/3) |
 | Computer   | 1990      | [Macintosh Classic](https://en.wikipedia.org/wiki/Macintosh_Classic) | [Project Board](https://github.com/users/geerlingguy/projects/2/views/1) |
-| Computer   | 1994      | [PowerBook 520](https://en.wikipedia.org/wiki/PowerBook_500_series) | [Triage](https://github.com/geerlingguy/retro-computers/issues/10) |
+| Computer   | 1994      | [PowerBook 520](https://en.wikipedia.org/wiki/PowerBook_500_series) | [Project Board](https://github.com/users/geerlingguy/projects/4) |
 | Computer   | 1994      | [Performa 637CD Money Magazine Edition](https://en.wikipedia.org/wiki/Macintosh_Quadra_630) | [Triage](https://github.com/geerlingguy/retro-computers/issues/10) |
 | Computer   | 1997      | [PowerBook 3400c](https://www.jeffgeerling.com/blog/2024/build-log-macintosh-powerbook-3400c) | TODO |
 | Computer   | 1998      | [PowerBook G3 'Wallstreet'](https://en.wikipedia.org/wiki/PowerBook_G3#PowerBook_G3_Series_(Wallstreet_I)) | [Triage](https://github.com/geerlingguy/retro-computers/issues/10) |
