@@ -4,8 +4,8 @@ This repository contains all the issues and information surrounding the various 
 
 ## List of gear
 
-| Type       | Year Made | Name of System | Current Issues |
-| ---        | ---       | ---            | ---            |
+| Type       | Year Made | Name of System | Notes / Links |
+| :--        | :--       | :--            | :--           |
 | Computer   | 1979      | [Apple II](https://www.youtube.com/watch?v=AVec5Db_SRo) | [Project Board](https://github.com/users/geerlingguy/projects/1) |
 | Computer   | 1986      | [Macintosh Plus](https://en.wikipedia.org/wiki/Macintosh_Plus) | [Project Board](https://github.com/users/geerlingguy/projects/3) |
 | Computer   | 1990      | [Macintosh Classic](https://en.wikipedia.org/wiki/Macintosh_Classic) | [Project Board](https://github.com/users/geerlingguy/projects/2/views/1) |
