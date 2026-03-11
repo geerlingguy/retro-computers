@@ -13,6 +13,7 @@ This repository contains all the issues and information surrounding the various 
 | Computer   | 1998      | [PowerBook G3 'Wallstreet'](https://en.wikipedia.org/wiki/PowerBook_G3#PowerBook_G3_Series_(Wallstreet_I)) | [Project Board](https://github.com/users/geerlingguy/projects/9) |
 | Computer   | 1999      | [iBook G3 'Clamshell'](https://en.wikipedia.org/wiki/IBook) | [Project Board](https://github.com/users/geerlingguy/projects/7) |
 | Computer   | 2002      | [Power Macintosh G4 MDD](https://www.jeffgeerling.com/blog/2024/build-log-power-mac-g4-mdd) | TODO |
+| Server     | 2004      | [Xserve G5](https://everymac.com/systems/apple/xserve/specs/xserve_g5_2.0.html) | [Project Board](https://github.com/users/geerlingguy/projects/10/views/1) |
 
 ## License
 
