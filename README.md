@@ -15,7 +15,7 @@ This repository contains all the issues and information surrounding the various 
 | Computer   | 1999      | [iBook G3 'Clamshell'](https://en.wikipedia.org/wiki/IBook) | [Project Board](https://github.com/users/geerlingguy/projects/7) |
 | Computer   | 2002      | [Power Macintosh G4 MDD](https://www.jeffgeerling.com/blog/2024/build-log-power-mac-g4-mdd) | TODO |
 | Server     | 2004      | [Xserve G5](https://everymac.com/systems/apple/xserve/specs/xserve_g5_2.0.html) | [Project Board](https://github.com/users/geerlingguy/projects/10/views/1) |
-| Computer   | 2005      | [Power Mac G5 Dual 2.0 GHz (Late 2005)](https://everymac.com/systems/apple/powermac_g5/specs/powermac_g5_dual_2.0.html) | [Project Board]() |
+| Computer   | 2005      | [Power Mac G5 Dual 2.0 GHz (Late 2005)](https://everymac.com/systems/apple/powermac_g5/specs/powermac_g5_dual_2.0.html) | [Project Board](https://github.com/users/geerlingguy/projects/12) |
 
 ## License
 
