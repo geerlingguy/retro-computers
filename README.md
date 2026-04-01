@@ -10,7 +10,7 @@ This repository contains all the issues and information surrounding the various 
 | Computer   | 1986      | [Macintosh Plus](https://en.wikipedia.org/wiki/Macintosh_Plus) | [Project Board](https://github.com/users/geerlingguy/projects/3) |
 | Computer   | 1989      | [Macintosh SE/30](https://en.wikipedia.org/wiki/Macintosh_SE/30) | [Project Board](https://github.com/users/geerlingguy/projects/8) |
 | Monitor    | 1995      | [Sony PVM-8044Q HR Trinitron](https://crtdatabase.com/crts/sony/sony-pvm-8044q) | [Project Board](https://github.com/users/geerlingguy/projects/11) |
-| Computer   | 1997      | [PowerBook 3400c](https://www.jeffgeerling.com/blog/2024/build-log-macintosh-powerbook-3400c) | TODO |
+| Computer   | 1997      | [PowerBook 3400c](https://www.jeffgeerling.com/blog/2024/build-log-macintosh-powerbook-3400c) | [Project Board](https://github.com/users/geerlingguy/projects/13) |
 | Computer   | 1998      | [PowerBook G3 'Wallstreet'](https://en.wikipedia.org/wiki/PowerBook_G3#PowerBook_G3_Series_(Wallstreet_I)) | [Project Board](https://github.com/users/geerlingguy/projects/9) |
 | Computer   | 1999      | [iBook G3 'Clamshell'](https://en.wikipedia.org/wiki/IBook) | [Project Board](https://github.com/users/geerlingguy/projects/7) |
 | Computer   | 2002      | [Power Macintosh G4 MDD](https://www.jeffgeerling.com/blog/2024/build-log-power-mac-g4-mdd) | TODO |
