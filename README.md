@@ -16,6 +16,7 @@ This repository contains all the issues and information surrounding the various 
 | Computer   | 2002      | [Power Macintosh G4 MDD](https://www.jeffgeerling.com/blog/2024/build-log-power-mac-g4-mdd) | TODO |
 | Server     | 2004      | [Xserve G5](https://everymac.com/systems/apple/xserve/specs/xserve_g5_2.0.html) | [Project Board](https://github.com/users/geerlingguy/projects/10/views/1) |
 | Computer   | 2005      | [Power Mac G5 Dual 2.0 GHz (Late 2005)](https://everymac.com/systems/apple/powermac_g5/specs/powermac_g5_dual_2.0.html) | [Project Board](https://github.com/users/geerlingguy/projects/12) |
+| Server     | 2006      | [Xserve Xeon 2.0 QC (Late 2006)](https://everymac.com/systems/apple/xserve/specs/xserve-intel-xeon-2.0-quad-specs.html) | [Project Board](https://github.com/users/geerlingguy/projects/14) |
 
 ## License
 
